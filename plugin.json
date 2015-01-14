@@ -1,0 +1,16 @@
+{
+ "name": "EvenOddReporting",
+ "version": "0.1.0",
+ "description": "Piwik plugin delivers report that separates tracked visits by hour - even or odd",
+ "theme": false,
+ "require": {
+    "piwik": ">=2.10.0"
+ },
+ "authors": [
+     {
+         "name": "Piwik",
+         "email": "",
+         "homepage": ""
+     }
+ ]
+}
