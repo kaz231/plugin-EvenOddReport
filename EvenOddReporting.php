@@ -8,8 +8,12 @@
  */
 namespace Piwik\Plugins\EvenOddReporting;
 
+use Piwik\Plugin;
+
 /**
+ * Class EvenOddReporting
+ * @package Piwik\Plugins\EvenOddReporting
  */
-class EvenOddReporting extends \Piwik\Plugin
+class EvenOddReporting extends Plugin
 {
 }
