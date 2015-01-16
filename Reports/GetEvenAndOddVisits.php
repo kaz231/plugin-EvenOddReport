@@ -27,7 +27,7 @@ class GetEvenAndOddVisits extends Base
         parent::init();
 
         $this->name          = Piwik::translate('EvenOddReporting_EvenAndOddVisits');
-        $this->dimension     = Archiver::EVEN_ODD_REPORTING_RECORD;
+        $this->dimension     = null;
         $this->documentation = Piwik::translate('');
 
         // This defines in which order your report appears in the mobile app, in the menu and in the list of widgets
